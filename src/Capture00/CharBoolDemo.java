@@ -1,3 +1,5 @@
+package Capture00;
+
 public class CharBoolDemo {
     public static void main(String[] args) {
         char ga1 = '가';

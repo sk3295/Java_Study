@@ -1,3 +1,5 @@
+package Capture00;
+
 import java.util.Scanner;
 
 public class SImpleIfDemo {

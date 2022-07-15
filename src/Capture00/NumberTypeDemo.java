@@ -1,3 +1,5 @@
+package Capture00;
+
 public class NumberTypeDemo {
     public static void main(String[] args) {
         int mach;

@@ -1,3 +1,5 @@
+package Capture00;
+
 public class CastDemo {
     public static void main(String[] args) {
         int i;

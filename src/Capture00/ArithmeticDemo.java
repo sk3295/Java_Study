@@ -1,3 +1,5 @@
+package Capture00;
+
 public class ArithmeticDemo {
     public static void main(String[] args) {
         int remainder = 25 % 2;

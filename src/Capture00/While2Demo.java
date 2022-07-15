@@ -1,3 +1,5 @@
+package Capture00;
+
 public class While2Demo {
     public static void main(String[] args) {
         int row = 2;
@@ -10,5 +12,6 @@ public class While2Demo {
             System.out.println();
             row++;
         }
+
     }
 }

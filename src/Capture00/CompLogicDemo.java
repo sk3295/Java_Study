@@ -1,3 +1,5 @@
+package Capture00;
+
 public class CompLogicDemo {
     public static void main(String[] args) {
         int x = 0, y = 1;
